@@ -79,9 +79,7 @@ Choose a difficulty level, guess the secret number within limited attempts, and 
 
     number_guess_highscores.json — Automatically created file to save local high scores
 
-# Screenshots
-  
-   
+
 # 🔮 Future Improvements
 
     Add sounds and animations
